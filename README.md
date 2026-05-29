@@ -138,9 +138,9 @@ Each refund charges `QPORTAL_REFUND_FEE` (**5 PORTAL**), accumulated in `portalE
 | Share asset name (676 IPO shares) | `QPORTAL` |
 | Governance token | `PORTAL` (asset name id `83843471265616`) |
 | Contract index | 28 |
-| Proposal epoch (N) | 211 |
-| IPO epoch (N+1) | 212 |
-| Construction / first-use epoch (N+2) | 213 |
+| Proposal epoch (N) | 213 |
+| IPO epoch (N+1) | 214 |
+| Construction / first-use epoch (N+2) | 215 |
 
 > Recommended filename when submitting to `qubic/proposal/SmartContracts`:
 > `2026-05-29-QPortal.md` (date-prefixed, matching the directory convention).
